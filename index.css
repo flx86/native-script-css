@@ -1,0 +1,38 @@
+
+.hero-section{
+  margin-top: 80px !important;
+  display: flex;
+  min-height: 80vh;
+}
+
+.big-text{
+  font-size: 58px;
+  line-height: 1.1;
+  font-weight: 700px;
+  margin-bottom: 40px;
+}
+.hero-section div p{
+  font-size:25px;
+  line-height: 1.4;
+  margin-bottom: 40px;
+}
+
+.hero-buttons buttons{
+  width: 300px;
+
+}
+
+.hero-img-wrapper{
+  background: blue;
+
+}
+
+
+
+
+/* .hero-img{
+  background: url('./assets/header-graphic-hp-min.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: bottom right;
+} */
